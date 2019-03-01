@@ -1,3 +1,9 @@
 {
-  "type": "npm"
+  "type": "npm",
+  "scale": {
+    "sfo1": {
+      "min": 2,
+      "max": 2
+    }
+  }
 }
