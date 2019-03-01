@@ -1,5 +1,5 @@
 {
-  "type": "npm",
+  "type": "static",
   "scale": {
     "sfo1": {
       "min": 2,
