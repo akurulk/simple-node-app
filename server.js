@@ -1,3 +1,3 @@
 module.exports = () => {
-	return "Hello World 232"
+	return "Hello World sdd"
 };
